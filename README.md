@@ -1,21 +1,21 @@
-# profile
-# [Your Name]
+# Profile
+# Benjamin Rosenberg
 
 MS, Cybersecurity Engineering
 
-I am a cybersecurity researcher and engineer with a focus on the intersection of 
-formal methods, AI safety, and automotive security. My work applies modal logic 
-and neuro-symbolic architectures to problems in autonomous vehicle safety, 
-intrusion detection, and risk analysis — with a parallel interest in the 
-theoretical foundations of post-quantum cryptography and quantum information 
-theory. I am equally comfortable operating at the hardware level (embedded 
-systems, microcontrollers, FPGA) and at the level of formal logical frameworks 
-and learned representations.
+I am a cybersecurity researcher and engineer with a focus on formal methods, 
+AI safety, and automotive security. My work applies modal logic and neuro-symbolic 
+architectures to problems in autonomous vehicle safety, intrusion detection, 
+and risk analysis — with a parallel interest in the theoretical foundations of 
+post-quantum cryptography and quantum information theory. I am equally 
+comfortable operating at the hardware level (embedded systems, microcontrollers, 
+FPGA) and at the level of formal logical frameworks and learned representations.
 
-A recurring theme across my research is the use of modal logic as a unifying 
-formal structure: for access control, for risk analysis, and for interpretable 
-machine learning. I believe interpretability and formal rigor are not in tension 
-with performance — and my published and submitted work supports this position.
+A major component of my research has been the use of modal logic as a unifying 
+formal structure for access control, risk analysis, and interpretable 
+machine learning. My published and submitted work supports the position that 
+interpretability and formal rigor in a security-first posture are not in tension 
+with performance.
 
 ---
 
