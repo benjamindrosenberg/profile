@@ -46,9 +46,9 @@ mathematically rigorous deep learning seminars.
 | **General Modal Logical Risk Analysis Framework** | Security Research | Developed a domain-general risk analysis framework grounded in modal logic, unifying Safety Studies and Cybersecurity under a common formal structure. Emerged from independent network security research supervised by a graduate course instructor; framework and codebase complete, write-up in progress. | [Repo](https://github.com/benjamindrosenberg/general-modal-logical-risk-analysis-framework) |
 | **Modal Logical Access Control for Vehicle Systems** | Security Engineering / Automotive | Developed a modal logical framework for access control in vehicle network systems; served as the foundation for subsequent independent research in network security and the general modal logical risk analysis framework. | [Repo](https://github.com/benjamindrosenberg/modal-logical-control-for-AV-sensor-networks) |
 | **Hardware-Deployed DES Encryption Module** | Embedded Security | Implemented DES encryption in C++ and deployed to a microcontroller via STLink. Demonstrates low-level cryptographic implementation and embedded hardware security workflow. | [Repo](https://github.com/benjamindrosenberg/HW-Deployed-DES-Module) |
-| **QuakeML Seismic Event Database & Focal Mechanism Visualizer** | Scientific Computing | Designed a SQL Server database schema around USGS QuakeML notification attributes as a foundation for P- and S-wave visualization; motivated by an interest in statistical inference of earthquake focal mechanisms (beach ball determination). Visualizer and inference component in development. | [Repo](#) |
-| **Quantum First Drafts: The Qubit** | Science Communication / Interactive Art | Collaborative interactive installation exhibited at CNXNS, a formal campus event exploring the relationship between art and science. Co-developed a Cesium Ion 3D visualization to illustrate mathematical spin and provide an intuitive foundation for understanding the qubit. | [Repo](#) |
-| **Automotive Camera Testing Automation** | Professional / Tooling | VBA macros and batch scripts developed professionally to automate data processing workflows for vehicle camera field testing, storage, and reporting. | [Repo](#) |
+| **QuakeML Seismic Event Database & Focal Mechanism Visualizer** | Scientific Computing | Designed a SQL Server database schema around USGS QuakeML notification attributes as a foundation for P- and S-wave visualization; motivated by an interest in statistical inference of earthquake focal mechanisms (beach ball determination). Visualizer and inference component in development. | [Repo](https://github.com/benjamindrosenberg/QuakeML-Seismic-Event-DB) |
+| **Quantum First Drafts: The Qubit** | Science Communication / Interactive Art | Collaborative interactive installation exhibited at CNXNS, a formal campus event exploring the relationship between art and science. Co-developed a Cesium Ion 3D visualization to illustrate mathematical spin and provide an intuitive foundation for understanding the qubit. | [Repo](https://github.com/benjamindrosenberg/CNXNS-2024-First-Drafts-of-QC) |
+| **Automotive Camera Testing Automation** | Professional / Tooling | VBA macros and batch scripts developed professionally to automate data processing workflows for vehicle camera field testing, storage, and reporting. | [Repo](https://github.com/benjamindrosenberg/codingsamples) |
 
 ---
 
@@ -63,8 +63,3 @@ mathematically rigorous deep learning seminars.
   computing approaches from post-quantum cryptographic methods. (Collaborative)
 
 ---
-
-## Contact
-
-- LinkedIn: [Your LinkedIn](#)
-- Email: [Your Email]
